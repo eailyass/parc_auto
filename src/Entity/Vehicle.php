@@ -54,14 +54,15 @@ class Vehicle
     private $type;
 
     /**
+     * @ORM\Column(type="boolean")
+     */
+    private $availability;
+
+    /**
      * @ORM\OneToMany(targetEntity="App\Entity\Sinister", mappedBy="vehicle")
      */
     private $sinisters;
 
-    /**
-     * @ORM\Column(type="boolean")
-     */
-    private $availability;
 
     /**
      * @ORM\OneToMany(targetEntity="App\Entity\VehicleCheckout", mappedBy="vehicle")
