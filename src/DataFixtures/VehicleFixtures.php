@@ -20,7 +20,7 @@ class VehicleFixtures extends Fixture
             $vehicle[$i]->setModel($faker->vehicleModel);
             $vehicle[$i]->setDateOfCirculation($faker->dateTime($max = 'now', $timezone = null));
             $vehicle[$i]->setDateOfAcquisition($faker->dateTime($max = $vehicle[$i]->getDateOfCirculation(), $timezone = null));
-            $vehicle[$i]->setImmatriculationNumber($faker->vehicleRegistration);
+            $vehicle[$i]->setImmatriculationNumber($faker->unique()->vehicleRegistration);
             $vehicle[$i]->setGreyCardNumber($faker->vehicleModel);
             $vehicle[$i]->setType($faker->vehicleType);
             $vehicle[$i]->setAvailability($faker->boolean);

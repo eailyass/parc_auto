@@ -52,7 +52,7 @@ class Sinister
         return $this->title;
     }
 
-    public function setTitle(string $Title): self
+    public function setTitle(string $title): self
     {
         $this->title = $title;
 
