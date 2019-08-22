@@ -1,0 +1,212 @@
+[
+  {
+    "id": 11,
+    "firstName": "Benoît",
+    "lastName": "Benard",
+    "licenseNumber": "22356607",
+    "birthday": "1922-11-27T00:00:00+00:00",
+    "title": "Promotion des ventes",
+    "vehicleAssignements": [
+      "/api/vehicle_assignements/10",
+      "/api/vehicle_assignements/15",
+      "/api/vehicle_assignements/20"
+    ]
+  },
+  {
+    "id": 12,
+    "firstName": "Benoît",
+    "lastName": "Garcia",
+    "licenseNumber": "92837013",
+    "birthday": "1968-04-26T00:00:00+01:00",
+    "title": "Ecotoxicologue",
+    "vehicleAssignements": [
+      "/api/vehicle_assignements/3",
+      "/api/vehicle_assignements/19"
+    ]
+  },
+  {
+    "id": 13,
+    "firstName": "Alexandre",
+    "lastName": "Gilles",
+    "licenseNumber": "58225259",
+    "birthday": "1920-01-28T00:00:00+00:00",
+    "title": "Façadier-bardeur",
+    "vehicleAssignements": [
+      "/api/vehicle_assignements/2",
+      "/api/vehicle_assignements/8",
+      "/api/vehicle_assignements/14"
+    ]
+  },
+  {
+    "id": 14,
+    "firstName": "Louis",
+    "lastName": "Guerin",
+    "licenseNumber": "79817301",
+    "birthday": "1950-11-07T00:00:00+01:00",
+    "title": "Semencier",
+    "vehicleAssignements": [
+      "/api/vehicle_assignements/7"
+    ]
+  },
+  {
+    "id": 15,
+    "firstName": "Jacqueline",
+    "lastName": "Diaz",
+    "licenseNumber": "60470820",
+    "birthday": "1931-06-29T00:00:00+01:00",
+    "title": "Capitaine de pêche",
+    "vehicleAssignements": [
+      "/api/vehicle_assignements/1",
+      "/api/vehicle_assignements/4",
+      "/api/vehicle_assignements/17"
+    ]
+  },
+  {
+    "id": 16,
+    "firstName": "Marcel",
+    "lastName": "Clement",
+    "licenseNumber": "54657321",
+    "birthday": "1952-05-06T00:00:00+01:00",
+    "title": "Sophrologue",
+    "vehicleAssignements": [
+      "/api/vehicle_assignements/12",
+      "/api/vehicle_assignements/16"
+    ]
+  },
+  {
+    "id": 17,
+    "firstName": "Agathe",
+    "lastName": "Rey",
+    "licenseNumber": "66152166",
+    "birthday": "1926-06-10T00:00:00+01:00",
+    "title": "Cueilleur de cerises",
+    "vehicleAssignements": [
+      "/api/vehicle_assignements/11"
+    ]
+  },
+  {
+    "id": 18,
+    "firstName": "Renée",
+    "lastName": "Colas",
+    "licenseNumber": "83865758",
+    "birthday": "1920-07-21T00:00:00+01:00",
+    "title": "Maïeuticien",
+    "vehicleAssignements": [
+      "/api/vehicle_assignements/6"
+    ]
+  },
+  {
+    "id": 19,
+    "firstName": "Gilles",
+    "lastName": "Le Goff",
+    "licenseNumber": "16945618",
+    "birthday": "1921-02-24T00:00:00+00:00",
+    "title": "Façadier-bardeur",
+    "vehicleAssignements": [
+      "/api/vehicle_assignements/5",
+      "/api/vehicle_assignements/18"
+    ]
+  },
+  {
+    "id": 20,
+    "firstName": "Claudine",
+    "lastName": "Bruneau",
+    "licenseNumber": "62684867",
+    "birthday": "1955-04-03T00:00:00+01:00",
+    "title": "Cintrier-machiniste",
+    "vehicleAssignements": [
+      "/api/vehicle_assignements/9",
+      "/api/vehicle_assignements/13"
+    ]
+  },
+  {
+    "id": 131,
+    "firstName": "Corinne",
+    "lastName": "Carre",
+    "licenseNumber": "75805290",
+    "birthday": "1960-04-22T00:00:00+01:00",
+    "title": "Moellonneur",
+    "vehicleAssignements": []
+  },
+  {
+    "id": 132,
+    "firstName": "Henriette",
+    "lastName": "Chauveau",
+    "licenseNumber": "33626870",
+    "birthday": "1964-08-07T00:00:00+01:00",
+    "title": "Bruiteur",
+    "vehicleAssignements": []
+  },
+  {
+    "id": 133,
+    "firstName": "Marcel",
+    "lastName": "Techer",
+    "licenseNumber": "94434413",
+    "birthday": "1920-04-14T00:00:00+01:00",
+    "title": "Plisseur",
+    "vehicleAssignements": []
+  },
+  {
+    "id": 134,
+    "firstName": "Valentine",
+    "lastName": "Hernandez",
+    "licenseNumber": "25157230",
+    "birthday": "1951-12-18T00:00:00+01:00",
+    "title": "Feutier",
+    "vehicleAssignements": []
+  },
+  {
+    "id": 135,
+    "firstName": "Grégoire",
+    "lastName": "Gautier",
+    "licenseNumber": "19665270",
+    "birthday": "1959-11-08T00:00:00+01:00",
+    "title": "Marin grande pêche",
+    "vehicleAssignements": []
+  },
+  {
+    "id": 136,
+    "firstName": "Lorraine",
+    "lastName": "Ribeiro",
+    "licenseNumber": "74243490",
+    "birthday": "1936-03-06T00:00:00+00:00",
+    "title": "Fossoyeur",
+    "vehicleAssignements": []
+  },
+  {
+    "id": 137,
+    "firstName": "Charles",
+    "lastName": "Meyer",
+    "licenseNumber": "77045870",
+    "birthday": "1929-03-02T00:00:00+00:00",
+    "title": "Manager d'artiste",
+    "vehicleAssignements": []
+  },
+  {
+    "id": 138,
+    "firstName": "Noël",
+    "lastName": "Dupont",
+    "licenseNumber": "99894877",
+    "birthday": "1932-10-14T00:00:00+00:00",
+    "title": "Opérateur du son",
+    "vehicleAssignements": []
+  },
+  {
+    "id": 139,
+    "firstName": "Charles",
+    "lastName": "Lefevre",
+    "licenseNumber": "90845776",
+    "birthday": "1929-05-07T00:00:00+01:00",
+    "title": "Sculpteur sur verre",
+    "vehicleAssignements": []
+  },
+  {
+    "id": 140,
+    "firstName": "Victoire",
+    "lastName": "Couturier",
+    "licenseNumber": "73993022",
+    "birthday": "1932-01-25T00:00:00+00:00",
+    "title": "Commandant de police",
+    "vehicleAssignements": []
+  }
+]
